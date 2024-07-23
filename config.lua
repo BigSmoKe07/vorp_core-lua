@@ -81,8 +81,8 @@ Config = {
     HideMoney             = false,       -- Disables the Money UI for all players.
     HideLevel             = false,       -- Disables the Level UI for all players.
     HideID                = false,       -- Disables the ID UI for all players.
-    HideTokens            = false,       -- Disables the Token UI for all players.
-    HidePVP               = false,       -- Disables the PVP UI for all players.
+    HideTokens            = true,       -- Disables the Token UI for all players.
+    HidePVP               = true,       -- Disables the PVP UI for all players.
     UIPosition            = 'TopRight',  -- Sets the UI position on the screen. Options are 'TopRight', 'TopLeft', 'BottomRight', 'BottomLeft', 'MiddleRight', 'TopMiddle', 'BottomMiddle'.
 
     UILayout              = 'Column',    -- Sets the UI layout, options are 'Row' or 'Column'.
